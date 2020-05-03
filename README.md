@@ -3,13 +3,13 @@
 页面使用Markdown来编辑，你可以在这里看到我们的课程小组相关介绍[查看](https://github.com/K6312-group9/K6312-group9/edit/master/README.md)
 
 
-### 研究背景
+### 1.研究背景
 
-### 研究主题
+### 2.研究主题
 
-### 研究材料
+### 3.研究材料
 
-### methodology方法论
+### 4.methodology方法论
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
@@ -31,10 +31,10 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
-### 实践步骤
+### 5.实践步骤
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Support or Contact
+### 6.Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
