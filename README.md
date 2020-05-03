@@ -1,10 +1,15 @@
-## Welcome to GitHub Pages1111
+## K6312 INFORMATION MINING & ANALYSIS 小组 9 
 
-You can use the [editor on GitHub](https://github.com/K6312-group9/K6312-group9/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+页面使用Markdown来编辑，你可以在这里看到我们的课程小组相关介绍[查看](https://github.com/K6312-group9/K6312-group9/edit/master/README.md)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### 研究背景
+
+### 研究主题
+
+### 研究材料
+
+### methodology方法论
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
@@ -26,11 +31,9 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
+### 实践步骤
+
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/K6312-group9/K6312-group9/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
 
