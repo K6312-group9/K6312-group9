@@ -5,7 +5,7 @@
 
 clink here to download our [dataset](https://github.com/K6312-group9/K6312-group9.github.io/blob/master/dataset.xlsx?raw=true)
 
-clink here to download our [project file]()
+clink here to download our [project file](https://github.com/K6312-group9/K6312-group9.github.io/raw/master/7%2C8%2C9%2C10%2C12day.ipynb)
 
 ### 2.code
 
